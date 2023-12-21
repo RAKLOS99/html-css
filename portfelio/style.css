@@ -1,0 +1,30 @@
+body{font-style: oblique;
+background-color: rgb(215, 0, 205);
+text-align: center;
+}
+p{
+    color: rgb(41, 241, 248);
+    font-style: unset;
+}
+
+
+input{
+    background-color: rgb(17, 240, 240);
+    color: rgb(0, 0, 0);
+text-align: center;
+}
+label{
+    color: black;
+}
+
+
+legend{color: rgb(0, 0, 0);}
+
+#try2{color: rgb(12, 255, 247);}
+fieldset{padding: 5%;margin:5% 
+;background-color: aqua;
+color: rgb(31, 219, 239);}
+
+#try3{background-color: aqua;}
+#try4{background-color: aqua;}
+#try5{background-color: aqua}
